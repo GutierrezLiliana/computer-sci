@@ -1,0 +1,28 @@
+display{
+	inline-block;
+}
+
+.white {
+	  background-color: #fff;
+	  min-height:25px;
+}
+
+.turquoise {
+  background-color: #035959;
+}
+
+.sea_blue {
+  background-color: #0B8D80;
+}
+
+.gray {
+  background-color: #212629;
+}
+
+.brown {
+  background-color: #210202;
+}
+
+.dark_green {
+  background-color: #005921;
+}
