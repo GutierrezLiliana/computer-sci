@@ -1,28 +1,63 @@
-display{
-	inline-block;
+body {
+  width: 95%;
+	height: 95%;
+	background-color: turquoise;
 }
 
-.white {
-	  background-color: #fff;
-	  min-height:25px;
+.oneblock {
+ background-color:#035959; 
+ width: 50%;
+ min-height: 30%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+ color:orange;
 }
 
-.turquoise {
-  background-color: #035959;
+.twoblock {
+ background-color: #0B8D80; 
+ width: 30%;
+ min-height: 40%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+ color:pink;
 }
 
-.sea_blue {
-  background-color: #0B8D80;
+.threeblock {
+ background-color: #212629; 
+ width: 19%;
+ min-height: 30%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+ color:orange;
 }
 
-.gray {
-  background-color: #212629;
+.fourblock {
+ background-color: #210202; 
+ width: 50%;
+ height: 70%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
 }
 
-.brown {
-  background-color: #210202;
+.fiveblock {
+ background-color: #005921; 
+ width: 49%;
+ height: 70%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+ color: white;
 }
 
-.dark_green {
-  background-color: #005921;
+
+p {
+ padding-top: 80px;
+}
+
+.bottom {
+  padding-top: 250px;
 }
