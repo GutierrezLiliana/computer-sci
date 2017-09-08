@@ -15,7 +15,7 @@ body {
  width: 50%;
  height: 30%;
  display: inline-block;
-float:left;
+ float:left;
 }
 
 .twoblock {
@@ -43,7 +43,7 @@ float:left;
 
 .fiveblock {
  background-color: #005921; 
- width: 49%;
+ width: 50%;
  height: 70%;
  display: inline-block;
  float:right;
