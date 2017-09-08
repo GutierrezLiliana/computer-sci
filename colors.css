@@ -11,7 +11,7 @@ body {
  display: inline-block;
  font-family: Harrow, Impact;
  font-size: 30px;
- color:orange;
+ color:white;
 }
 
 .twoblock {
@@ -21,7 +21,7 @@ body {
  display: inline-block;
  font-family: Harrow, Impact;
  font-size: 30px;
- color:pink;
+ color:white;
 }
 
 .threeblock {
@@ -31,7 +31,7 @@ body {
  display: inline-block;
  font-family: Harrow, Impact;
  font-size: 30px;
- color:orange;
+ color:white;
 }
 
 .fourblock {
@@ -41,6 +41,7 @@ body {
  display: inline-block;
  font-family: Harrow, Impact;
  font-size: 30px;
+ color:white;
 }
 
 .fiveblock {
