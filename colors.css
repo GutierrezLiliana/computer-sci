@@ -1,50 +1,52 @@
-body {
+	body {
   width: 95vw;
-	height: 95vh;
-	background-color: turquoise;
+  height: 95vh;
+  background-color: turquoise;
 }
-.container{
+
+.container {
 	height:100%;
 	width:100%;
 	color:white;
 	font-family: Frank Ruhl Libre;
 	text-align: center;
+}
 
 .oneblock {
- background-color:#035959; 
+ background-color: #035959;
  width: 50%;
  height: 30%;
  display: inline-block;
- float:left;
+ float: left;
 }
 
 .twoblock {
- background-color: #0B8D80; 
+ background-color: #0B8D80;
  width: 30%;
  height: 30%;
  display: inline-block;
+ 
 }
 
 .threeblock {
- background-color: #212629; 
+ background-color: #212629;
  width: 20%;
- min-height: 30%;
- display: inline-block;
- float:right;
+ height: 30%;
+ display: inline-block; 
+ float: right;
 }
 
 .fourblock {
- background-color: #210202; 
- width: 50%;
- height: 70%;
- display: inline-block;
- float:left;
+  background-color: #210202;
+  width: 50%;
+  height: 70%;
+  display: inline-block; 
+  float: left;
 }
-
 .fiveblock {
- background-color: #005921; 
- width: 50%;
- height: 70%;
- display: inline-block;
- float:right;
+  background-color: #005921;
+  width: 50%;
+  height: 70%;
+  display: inline-block; 
+  float: right;
 }
