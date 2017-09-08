@@ -14,6 +14,7 @@
 
 .oneblock {
  background-color: #035959;
+	font-family: Frank Ruhl Libre;
  width: 50%;
  height: 30%;
  display: inline-block;
@@ -22,6 +23,7 @@
 
 .twoblock {
  background-color: #0B8D80;
+	font-family: Frank Ruhl Libre;
  width: 30%;
  height: 30%;
  display: inline-block;
@@ -30,6 +32,7 @@
 
 .threeblock {
  background-color: #212629;
+	font-family: Frank Ruhl Libre;
  width: 20%;
  height: 30%;
  display: inline-block; 
@@ -38,6 +41,7 @@
 
 .fourblock {
   background-color: #210202;
+	font-family: Frank Ruhl Libre;
   width: 50%;
   height: 70%;
   display: inline-block; 
@@ -45,6 +49,7 @@
 }
 .fiveblock {
   background-color: #005921;
+	font-family: Frank Ruhl Libre;
   width: 50%;
   height: 70%;
   display: inline-block; 
