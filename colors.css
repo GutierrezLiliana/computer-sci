@@ -11,9 +11,23 @@
        url('../fonts/julius-sans-one-v5-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/julius-sans-one-v5-latin-regular.svg#JuliusSansOne') format('svg'); /* Legacy iOS */
 }
+/* frank-ruhl-libre-regular - latin */
+@font-face {
+  font-family: 'Frank Ruhl Libre';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/frank-ruhl-libre-v2-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Frank Ruhl Libre Regular'), local('FrankRuhlLibre-Regular'),
+       url('../fonts/frank-ruhl-libre-v2-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/frank-ruhl-libre-v2-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/frank-ruhl-libre-v2-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/frank-ruhl-libre-v2-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/frank-ruhl-libre-v2-latin-regular.svg#FrankRuhlLibre') format('svg'); /* Legacy iOS */
+}
+/* painting */
 	body {
-  	width: 95vw;
-  	height: 95vh;
+  	width: 100vw;
+  	height: 100vh;
   	background-color: turquoise;
 }
 
@@ -21,13 +35,13 @@
 	height:100%;
 	width:100%;
 	color:white;
-	font-family: Frank Ruhl Libre;
+	font-family: 'Julius Sans One';
 	text-align: center;
 }
 
 .oneblock {
  	background-color: #035959;
- 	font-family: Frank Ruhl Libre;
+ 	font-family: 'Frank Ruhl Libre';
  	width: 50%;
  	height: 30%;
 	display: inline-block;
@@ -36,7 +50,7 @@
 
 .twoblock {
  	background-color: #0B8D80;
-	font-family: Frank Ruhl Libre;
+	font-family: 'Julius Sans One';
 	width: 30%;
 	height: 30%;
  	display: inline-block;
@@ -45,7 +59,7 @@
 
 .threeblock {
 	background-color: #212629;
-	font-family: Frank Ruhl Libre;
+	font-family: 'Frank Ruhl Libre';
  	width: 20%;
  	height: 30%;
  	display: inline-block; 
@@ -54,7 +68,7 @@
 
 .fourblock {
  	background-color: #210202;
-	font-family: Frank Ruhl Libre;
+	font-family: 'Julius Sans One';
   	width: 50%;
   	height: 70%;
   	display: inline-block; 
@@ -62,7 +76,7 @@
 }
 .fiveblock {
   	background-color: #005921;
-	font-family: Frank Ruhl Libre;
+	font-family: 'Frank Ruhl Libre';
   	width: 50%;
   	height: 70%;
 	display: inline-block; 
